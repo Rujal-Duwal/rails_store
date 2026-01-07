@@ -14,5 +14,4 @@ class ProductTest < ActiveSupport::TestCase
       product.update(inventory_count: 99)
     end
   end
-
 end
